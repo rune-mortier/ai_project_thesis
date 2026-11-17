@@ -1,0 +1,218 @@
+{
+  "n_cv": 200,
+  "method": "hybrid",
+  "leak": {
+    "name": [
+      0,
+      200
+    ],
+    "email": [
+      0,
+      200
+    ],
+    "phone": [
+      131,
+      184
+    ],
+    "birth_date": [
+      150,
+      183
+    ],
+    "religion": [
+      47,
+      47
+    ],
+    "union": [
+      30,
+      30
+    ],
+    "photo": [
+      99,
+      99
+    ],
+    "address": [
+      50,
+      152
+    ],
+    "nationality": [
+      85,
+      86
+    ],
+    "marital_status": [
+      69,
+      72
+    ],
+    "criminal_record": [
+      10,
+      11
+    ],
+    "health": [
+      46,
+      49
+    ],
+    "family": [
+      22,
+      81
+    ],
+    "national_number": [
+      0,
+      19
+    ]
+  },
+  "leak_group": {
+    "identifier": [
+      181,
+      736
+    ],
+    "discriminatory": [
+      326,
+      422
+    ],
+    "special": [
+      133,
+      156
+    ]
+  },
+  "leak_partial": {
+    "name": [
+      8,
+      200
+    ],
+    "email": [
+      4,
+      200
+    ],
+    "phone": [
+      131,
+      184
+    ],
+    "birth_date": [
+      162,
+      183
+    ],
+    "religion": [
+      47,
+      47
+    ],
+    "union": [
+      30,
+      30
+    ],
+    "address": [
+      141,
+      152
+    ],
+    "nationality": [
+      85,
+      86
+    ],
+    "marital_status": [
+      69,
+      72
+    ],
+    "criminal_record": [
+      10,
+      11
+    ],
+    "health": [
+      46,
+      49
+    ],
+    "family": [
+      22,
+      81
+    ],
+    "national_number": [
+      8,
+      19
+    ]
+  },
+  "leak_indirect": {
+    "direct": [
+      541,
+      1214
+    ],
+    "indirect": [
+      99,
+      100
+    ]
+  },
+  "det": {
+    "email": [
+      200,
+      200
+    ],
+    "birth_date": [
+      20,
+      20
+    ],
+    "phone": [
+      51,
+      51
+    ],
+    "address": [
+      122,
+      207
+    ],
+    "health": [
+      0,
+      62
+    ],
+    "family": [
+      58,
+      58
+    ],
+    "national_number": [
+      19,
+      19
+    ],
+    "criminal_record": [
+      0,
+      29
+    ]
+  },
+  "over_redaction": 0.3864746889048146,
+  "util_orig": {
+    "skill": [
+      889,
+      889
+    ],
+    "language": [
+      498,
+      498
+    ],
+    "education": [
+      319,
+      319
+    ],
+    "job": [
+      406,
+      406
+    ]
+  },
+  "util_san": {
+    "skill": [
+      889,
+      889
+    ],
+    "language": [
+      498,
+      498
+    ],
+    "education": [
+      319,
+      319
+    ],
+    "job": [
+      406,
+      406
+    ]
+  },
+  "months": {
+    "n": 200,
+    "exact_orig": 200,
+    "exact_san": 200,
+    "mae_orig": 0.0,
+    "mae_san": 0.0
+  }
+}

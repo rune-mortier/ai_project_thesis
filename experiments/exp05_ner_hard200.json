@@ -1,0 +1,194 @@
+{
+  "n_cv": 200,
+  "method": "ner",
+  "leak": {
+    "name": [
+      68,
+      200
+    ],
+    "email": [
+      191,
+      200
+    ],
+    "phone": [
+      182,
+      184
+    ],
+    "birth_date": [
+      161,
+      183
+    ],
+    "religion": [
+      47,
+      47
+    ],
+    "union": [
+      30,
+      30
+    ],
+    "photo": [
+      99,
+      99
+    ],
+    "address": [
+      50,
+      152
+    ],
+    "nationality": [
+      85,
+      86
+    ],
+    "marital_status": [
+      69,
+      72
+    ],
+    "criminal_record": [
+      11,
+      11
+    ],
+    "health": [
+      49,
+      49
+    ],
+    "family": [
+      81,
+      81
+    ],
+    "national_number": [
+      19,
+      19
+    ]
+  },
+  "leak_group": {
+    "identifier": [
+      491,
+      736
+    ],
+    "discriminatory": [
+      396,
+      422
+    ],
+    "special": [
+      156,
+      156
+    ]
+  },
+  "leak_partial": {
+    "name": [
+      195,
+      200
+    ],
+    "email": [
+      192,
+      200
+    ],
+    "phone": [
+      182,
+      184
+    ],
+    "birth_date": [
+      166,
+      183
+    ],
+    "religion": [
+      47,
+      47
+    ],
+    "union": [
+      30,
+      30
+    ],
+    "address": [
+      143,
+      152
+    ],
+    "nationality": [
+      85,
+      86
+    ],
+    "marital_status": [
+      69,
+      72
+    ],
+    "criminal_record": [
+      11,
+      11
+    ],
+    "health": [
+      49,
+      49
+    ],
+    "family": [
+      81,
+      81
+    ],
+    "national_number": [
+      19,
+      19
+    ]
+  },
+  "leak_indirect": {
+    "direct": [
+      943,
+      1214
+    ],
+    "indirect": [
+      100,
+      100
+    ]
+  },
+  "det": {
+    "birth_date": [
+      20,
+      20
+    ],
+    "address": [
+      122,
+      208
+    ]
+  },
+  "over_redaction": 0.265424430641822,
+  "util_orig": {
+    "skill": [
+      889,
+      889
+    ],
+    "language": [
+      498,
+      498
+    ],
+    "education": [
+      319,
+      319
+    ],
+    "job": [
+      406,
+      406
+    ]
+  },
+  "util_san": {
+    "skill": [
+      889,
+      889
+    ],
+    "language": [
+      498,
+      498
+    ],
+    "education": [
+      319,
+      319
+    ],
+    "job": [
+      406,
+      406
+    ]
+  },
+  "months": {
+    "n": 200,
+    "exact_orig": 200,
+    "exact_san": 200,
+    "mae_orig": 0.0,
+    "mae_san": 0.0
+  }
+}

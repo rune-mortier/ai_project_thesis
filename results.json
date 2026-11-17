@@ -1,0 +1,153 @@
+{
+  "n_cv": 10,
+  "leak": {
+    "name": [
+      0,
+      10
+    ],
+    "email": [
+      0,
+      10
+    ],
+    "phone": [
+      0,
+      7
+    ],
+    "address": [
+      0,
+      9
+    ],
+    "marital_status": [
+      0,
+      6
+    ],
+    "health": [
+      0,
+      3
+    ],
+    "birth_date": [
+      0,
+      5
+    ],
+    "family": [
+      0,
+      4
+    ],
+    "photo": [
+      3,
+      3
+    ],
+    "nationality": [
+      0,
+      2
+    ],
+    "national_number": [
+      0,
+      1
+    ],
+    "union": [
+      0,
+      1
+    ]
+  },
+  "leak_group": {
+    "identifier": [
+      0,
+      36
+    ],
+    "discriminatory": [
+      0,
+      17
+    ],
+    "special": [
+      3,
+      8
+    ]
+  },
+  "det": {
+    "email": [
+      10,
+      10
+    ],
+    "phone": [
+      7,
+      7
+    ],
+    "address": [
+      9,
+      9
+    ],
+    "marital_status": [
+      6,
+      6
+    ],
+    "health": [
+      3,
+      3
+    ],
+    "birth_date": [
+      5,
+      5
+    ],
+    "family": [
+      4,
+      4
+    ],
+    "nationality": [
+      2,
+      2
+    ],
+    "national_number": [
+      1,
+      1
+    ],
+    "union": [
+      1,
+      1
+    ]
+  },
+  "over_redaction": 0.0,
+  "util_orig": {
+    "skill": [
+      46,
+      46
+    ],
+    "language": [
+      27,
+      27
+    ],
+    "education": [
+      13,
+      13
+    ],
+    "job": [
+      19,
+      19
+    ]
+  },
+  "util_san": {
+    "skill": [
+      46,
+      46
+    ],
+    "language": [
+      27,
+      27
+    ],
+    "education": [
+      13,
+      13
+    ],
+    "job": [
+      19,
+      19
+    ]
+  },
+  "months": {
+    "n": 10,
+    "exact_orig": 10,
+    "exact_san": 10,
+    "mae_orig": 0.0,
+    "mae_san": 0.0
+  }
+}
